@@ -1,0 +1,5 @@
+(load-truck obj23 tru2 pos23)
+(drive-truck tru1 pos13 pos12 cit1)
+(drive-truck tru1 pos11 apt1 cit1)
+(unload-truck obj11 tru2 pos22)
+(load-airplane obj11 apn1 apt1)
